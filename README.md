@@ -1,4 +1,4 @@
 # MiniMax
 Mini game implementation using algorithm minimax
 
-[mini game_MINIMAX.docx](https://github.com/user-attachments/files/17006112/mini.game_MINIMAX.docx)
+[mini game_MINIMAX.pdf](https://github.com/user-attachments/files/17006121/mini.game_MINIMAX.pdf)
